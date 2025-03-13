@@ -1,4 +1,4 @@
--- TCL (Transaction Control Language) : 트랜잭션 제어 언어
+개ㅣ-- TCL (Transaction Control Language) : 트랜잭션 제어 언어
 -- COMMIT, ROLLBACK, SAVEPOINT
 
 -- DML : 데이터 조작언어로 데이터의 삽입/삭제/수정
